@@ -35,6 +35,7 @@ bit to get the screen back to normal.
 
 * [ ] Clear / reset the screen after the gif has been played
 * [ ] Add a way to stop the Rickroll
+* [ ] Rotate the screen by 90 degrees
 
 ## Credits
 
