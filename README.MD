@@ -28,8 +28,7 @@ Open up KUAL and press 'Rickroll'
 
 ## Stopping
 
-The Rickroll will stop automatically after the gif has been played once, although you need to scroll and click a little
-bit to get the screen back to normal.
+The Rickroll will stop automatically after the gif has been played once, although you need to lock and unlock the screen after playing to get it displaying things correctly again.
 
 ## Todo
 
