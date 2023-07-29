@@ -1,0 +1,8 @@
+{
+  "items": [
+    {
+      "name": "Rickroll",
+      "action": "./start.sh"
+    }
+  ]
+}
