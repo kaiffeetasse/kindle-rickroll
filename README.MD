@@ -38,4 +38,4 @@ The Rickroll will stop automatically after the gif has been played once, althoug
 
 ## Credits
 
-* mattzzw for the kindle-clock](https://github.com/mattzzw/kindle-clock) project, which I used as a starting point
+* mattzzw for the [kindle-clock](https://github.com/mattzzw/kindle-clock) project, which I used as a starting point
